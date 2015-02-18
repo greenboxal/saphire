@@ -1,0 +1,30 @@
+{
+  "name": "saphire",
+  "version": "1.0.0",
+  "description": "Ruby type system for JavaScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greenboxal/saphire.git"
+  },
+  "keywords": [
+    "ruby",
+    "type",
+    "system"
+  ],
+  "author": "Jonathan Lima <greenboxal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenboxal/saphire/issues"
+  },
+  "homepage": "https://github.com/greenboxal/saphire",
+  "dependencies": {
+    "function-name": "0.0.3",
+    "harmony-reflect": "^1.1.1",
+    "nan": "^1.6.2",
+    "node-v8-clone": "^0.6.2"
+  }
+}
