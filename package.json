@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/greenboxal/saphire",
   "dependencies": {
+    "bindings": "^1.2.1",
     "harmony-reflect": "^1.1.1",
+    "nan": "^1.6.2",
     "node-v8-clone": "^0.6.2",
     "setflags": "0.0.2",
     "v8-callsites": "^1.1.0"
